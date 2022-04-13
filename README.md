@@ -1,7 +1,7 @@
-FC Barcelona
-Frenkie De Jong
-Pedri
-Araujo
-Eric
-Dembele
-Fati
+# first-repo
+
+This project is to learn about git.
+
+## Index
+
+- Who am I?
